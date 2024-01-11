@@ -303,7 +303,7 @@ ai-prompting:
   - few-shot-prompting
   - priming-chatbots
 
-# New OAs since UXD006
+# Start new OAs since UXD006
 agile-planning:
   - scope
   - workplan
@@ -314,27 +314,22 @@ business-understanding:
   - goals-and-kpis
   - benchmark
 
-research:
-  - support
-  - guidelines
-  - interview
-  - documentation
-  - adaptation
-  - sources
-  - test
-  - cuantitative-data
-  - planning:
+user-research:
+  research-planning:
     - research-plan
     - desk-research
     - research-sample
     - participants
-  - qualitative:
+    
+  research-qualitative:
     - user-interviews
     - exploratory-techniques
-  - quantitative:
+    
+  research-quantitative:
     - user-surveys
     - analytical-techniques
-  - analysis:
+    
+  research-analysis:
     - process-information
     - experience-mapping
     - identify-patterns
@@ -382,3 +377,4 @@ design-specs:
 design-systems:
   - atomic-design
   - design-system
+# Finish new OAs since UXD006
